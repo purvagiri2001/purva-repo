@@ -1,3 +1,5 @@
 #!/bin/bash 
-echo "Hello"
+echo "Hello all"
+echo " From developer 1"
+
 
